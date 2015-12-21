@@ -1,0 +1,25 @@
+{
+  "config": {
+    "baseTheme": "core8",
+    "baseThemeRepo": "mozu/core-theme",
+    "baseThemeVersion": "^8.0.0"
+  },
+  "name": "Decima",
+  "version": "0.0.1",
+  "description": "Mozu and Git theme experiments.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elliottoman/decima.git"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compress": "^0.14.0",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jsonlint": "^1.0.6",
+    "grunt-mozu-appdev-sync": "^2.1.1",
+    "load-grunt-tasks": "^3.4.0",
+    "thmaa": "^0.10.5",
+    "time-grunt": "^1.2.2"
+  }
+}
